@@ -1,4 +1,6 @@
 # this file is edited every time slicer is run, contains personal info
 # and does not contain meaningful info for other users
 slic3r.ini
- 
+simple.ini
+snapshots 
+cache
